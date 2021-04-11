@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-nahar
+- 👋 Hi, I’m @-nahar
 - 👀 I’m interested in Deep learing & computer vision
 - 🌱 I’m currently learning ...NLP
 - 💞️ I’m looking to collaborate on various research project
